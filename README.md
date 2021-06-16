@@ -1,5 +1,5 @@
-![Business Card Builder 2](https://user-images.githubusercontent.com/77628400/122267606-1c07cc00-cea9-11eb-8724-008e78e70ecd.png)
-![Business Card Builder](https://user-images.githubusercontent.com/77628400/122267607-1c07cc00-cea9-11eb-94e8-5b6b45033535.png)
+![Business Card Builder 2](https://user-images.githubusercontent.com/77628400/122271004-efee4a00-ceac-11eb-8518-6d8a847f5a63.png)
+![Business Card Builder](https://user-images.githubusercontent.com/77628400/122271005-efee4a00-ceac-11eb-984a-b5df3d7708c1.png)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
