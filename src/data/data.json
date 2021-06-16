@@ -1,0 +1,26 @@
+ [
+    {
+      "title": "PERSONAL DETAILS",
+      "items": [
+        { "label": "GIVEN NAME", "type": "text", "inputType": "text|max:35" },
+        { "label": "SURENAME", "type": "text", "inputType": "text|max:35" },
+        { "label": "EMAIL", "type": "email", "inputType": "*" },
+        { "label": "PHONE", "type": "phone", "inputType": "phone|equal:10" }
+      ]
+    },
+    {
+      "title": "ADDRESS",
+      "items": [
+        {
+          "label": "HOUSE NAME OR #",
+          "type": "text",
+          "inputType": "textNumber|max:20"
+        },
+        { "label": "STREET", "type": "text", "inputType": "text|max:50" },
+        { "label": "SUBURB", "type": "text", "inputType": "text|max:30" },
+        { "label": "STATE", "type": "text", "inputType": "text|max:30|upper" },
+        { "label": "POSTCODE", "type": "postcode", "inputType": "number|equal:4" },
+        { "label": "COUNTRY", "type": "text", "inputType": "text|max:20" }
+      ]
+    }
+  ]
